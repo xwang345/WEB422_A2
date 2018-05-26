@@ -1,0 +1,19 @@
+{
+  "name": "web422_a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwang345/WEB422_A2.git"
+  },
+  "author": "Xiaochen Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwang345/WEB422_A2/issues"
+  },
+  "homepage": "https://github.com/xwang345/WEB422_A2#readme"
+}
