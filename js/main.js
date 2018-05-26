@@ -4,7 +4,7 @@ $(function(){
         event.preventDefault();
 
         $.ajax({
-            url: "http://localhost:8081/teams",
+            url: "https://radiant-lake-28462.herokuapp.com/teams",
             type: "GET",
             contentType: "application/json"
         })
@@ -17,7 +17,7 @@ $(function(){
         event.preventDefault();
         
         $.ajax({
-            url: "http://localhost:8081/employees",
+            url: "https://radiant-lake-28462.herokuapp.com/employees",
             type: "GET",
             contentType: "application/json"
         })
@@ -30,7 +30,7 @@ $(function(){
         event.preventDefault();
         
         $.ajax({
-            url: "http://localhost:8081/projects",
+            url: "https://radiant-lake-28462.herokuapp.com/projects",
             type: "GET",
             contentType: "application/json"
         })
@@ -43,7 +43,7 @@ $(function(){
         event.preventDefault();
         
         $.ajax({
-            url: "http://localhost:8081/positions",
+            url: "https://radiant-lake-28462.herokuapp.com/positions",
             type: "GET",
             contentType: "application/json"
         })
